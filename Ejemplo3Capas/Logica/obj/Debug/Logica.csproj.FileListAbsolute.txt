@@ -1,0 +1,10 @@
+C:\Users\STIVEN\Desktop\PROYECTOS\TUTORIALES\EJEMPLO3CAPAS\Ejemplo3Capas\Logica\bin\Debug\Logica.dll
+C:\Users\STIVEN\Desktop\PROYECTOS\TUTORIALES\EJEMPLO3CAPAS\Ejemplo3Capas\Logica\bin\Debug\Logica.pdb
+C:\Users\STIVEN\Desktop\PROYECTOS\TUTORIALES\EJEMPLO3CAPAS\Ejemplo3Capas\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\STIVEN\Desktop\PROYECTOS\TUTORIALES\EJEMPLO3CAPAS\Ejemplo3Capas\Logica\obj\Debug\Logica.dll
+C:\Users\STIVEN\Desktop\PROYECTOS\TUTORIALES\EJEMPLO3CAPAS\Ejemplo3Capas\Logica\obj\Debug\Logica.pdb
+C:\Users\ST\Desktop\PROYECTOS\TUTORIALES\EJEMPLO3CAPAS\Ejemplo3Capas\Logica\bin\Debug\Logica.dll
+C:\Users\ST\Desktop\PROYECTOS\TUTORIALES\EJEMPLO3CAPAS\Ejemplo3Capas\Logica\bin\Debug\Logica.pdb
+C:\Users\ST\Desktop\PROYECTOS\TUTORIALES\EJEMPLO3CAPAS\Ejemplo3Capas\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\ST\Desktop\PROYECTOS\TUTORIALES\EJEMPLO3CAPAS\Ejemplo3Capas\Logica\obj\Debug\Logica.dll
+C:\Users\ST\Desktop\PROYECTOS\TUTORIALES\EJEMPLO3CAPAS\Ejemplo3Capas\Logica\obj\Debug\Logica.pdb
